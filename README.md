@@ -1,2 +1,0 @@
-# TextAnimation
-CSS
